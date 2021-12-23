@@ -1,5 +1,6 @@
 package 两个数组的交集2;
 
+
 import org.junit.Test;
 
 import java.util.Arrays;
@@ -7,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Solution1 {
-    @Test
+
     public void test(){
         int[] nums1 = {1, 2, 2, 3, 4};
         int[] nums2 = {1, 3, 2, 3, 4};

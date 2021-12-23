@@ -2,7 +2,6 @@ package 路径总和;
 
 public class TreeNode {
     public int val;
-    int val;
     public TreeNode left;
     public TreeNode right;
     TreeNode() {}
